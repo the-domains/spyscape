@@ -1,0 +1,14 @@
+layout_spectrum: 0.4746935
+typography_spectrum: 0.3390073
+color:
+  saturation: 0.4674243
+  lightness: 0.8117689
+  brandStrength: 0.480666
+  brandColors:
+    - '#161518'
+    - '#FBF3DF'
+    - '#C7BEAB'
+    - '#039131'
+    - '#FFFB65'
+  rhythmicContrast: 0.09325646
+name: Spyscape
